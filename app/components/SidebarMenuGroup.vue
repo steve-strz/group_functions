@@ -1,9 +1,7 @@
 <template>
-  <Page actionBarHidden="true">
-    <StackLayout verticalAlignment="center" horizontalAlignment="center" backgroundColor="red">
-      <Label text="test" />
-    </StackLayout>
-  </Page>
+  <StackLayout verticalAlignment="center" horizontalAlignment="center" backgroundColor="red">
+    <Label text="test" />
+  </StackLayout>
 </template>
 
 <script >
