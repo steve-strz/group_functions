@@ -1,5 +1,5 @@
 <template>
-  <StackLayout verticalAlignment="center" horizontalAlignment="center" backgroundColor="red">
+  <StackLayout backgroundColor="red" height="100%" width="20%">
     <Label text="test" />
   </StackLayout>
 </template>
